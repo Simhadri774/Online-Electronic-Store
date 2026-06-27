@@ -1,4 +1,4 @@
-#**Online Electronic Store** 
+**Online Electronic Store** 
 
 The **Online Electronic Store** is a Java-based full-stack web application that manages electronic products through **Admin** and **Customer** modules.
 
